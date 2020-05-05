@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="QBgo1/QBgo1.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QBgo1/QBParser.cs">
+    <Files>
+      <File FileName="QBgo1/QBParser.cs" Line="935" Column="45" />
+      <File FileName="QBgo1/Controller.cs" Line="277" Column="17" />
+      <File FileName="QBgo1/FormMain.cs" Line="1" Column="1" />
+      <File FileName="QBgo1/FormDates.cs" Line="57" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
