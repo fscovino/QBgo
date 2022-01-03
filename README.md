@@ -1,5 +1,5 @@
 
-# QBgo1
+# QBgo1 (C#)
 
 This is a service, no GUI for users. It reads files stored on a given folder and process them into QuickBooks Desktop Application in form of an Estimate. It is particulary usuful for sales reps on the go, that are away from their desks (on business trips) and need to continue process orders. Sales Reps just receive an excel sheet from their customers and place this file into a folder where it will then be processed. It avoids sales reps from having to place long orders that might consume 15 to 20 minuts. Everything gets done with a simple copy & paste.
 
